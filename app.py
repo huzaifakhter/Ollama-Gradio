@@ -29,7 +29,7 @@ with gr.Blocks() as demo:
         type="messages",
         avatar_images=(
             None,
-            "assets/logo/logo.png",
+            "logo.png",
         ),
     )
 
