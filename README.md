@@ -5,6 +5,7 @@ Run **Ollama LLMs in the Browser** using **Gradio**
 Run **Llama 3.2** or any **Ollama** model  
 **Gradio UI** for easy interaction  
 Lightweight & simple setup  
+Saves the history in json format, then reloads it when app runs again.
 
 ## Installation  
 Make sure you have downloaded Ollama; if not, <a href="https://ollama.com/download" target="_blank">Visit Here</a>  
