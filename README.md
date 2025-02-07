@@ -7,8 +7,9 @@ Run **Ollama LLMs in the Browser** using **Gradio** 🚀
 ✅ Lightweight & simple setup  
 
 ## 🔧 Installation  
+Make sure you have downloaded Ollama; if not, visit:  
+<a href="https://ollama.com/download" target="_blank">Visit Here</a>  
 
-### 1️⃣ Install Dependencies  
-Make sure you have **Python 3.9+** installed. Then, run:  
+After the download is complete, download any model and run:  
 ```bash
-pip install -r requirements.txt
+ollama run llama3.2
