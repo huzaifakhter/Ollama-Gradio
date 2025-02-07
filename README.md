@@ -7,14 +7,20 @@ Run **Llama 3.2** or any **Ollama** model
 Lightweight & simple setup  
 
 ## Installation  
-Make sure you have downloaded Ollama; if not, visit:  
-<a href="https://ollama.com/download" target="_blank">Visit Here</a>  
+Make sure you have downloaded Ollama; if not, <a href="https://ollama.com/download" target="_blank">Visit Here</a>  
+
 
 After the download is complete, download any model, run: `ollama run llama3.2:1b`
 
 ## Python Libraries
-you have to install Gradio and Ollama from pip, run: 
+You have to install Gradio and Ollama from pip, run: 
+`pip install gradio ollama`
+
+## Run App
+After all the requirements are satisfied, run the app
 `pip install gradio ollama`
 
 ## Message
 Keep Calm And Code On.
+
+
