@@ -10,7 +10,7 @@ Lightweight & simple setup
 Make sure you have downloaded Ollama; if not, visit:  
 <a href="https://ollama.com/download" target="_blank">Visit Here</a>  
 
-After the download is complete, download any model, run: `ollama run llama3.2`
+After the download is complete, download any model, run: `ollama run llama3.2:1b`
 
 ## Python Libraries
 you have to install Gradio and Ollama from pip, run: 
