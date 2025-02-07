@@ -10,6 +10,5 @@ Run **Ollama LLMs in the Browser** using **Gradio** 🚀
 Make sure you have downloaded Ollama; if not, visit:  
 <a href="https://ollama.com/download" target="_blank">Visit Here</a>  
 
-After the download is complete, download any model and run:  
-```bash
-ollama run llama3.2
+After the download is complete, download any model, run: 'ollama run llama3.2'
+
